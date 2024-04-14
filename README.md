@@ -1,0 +1,2 @@
+Init:
+`npm init -y`
